@@ -10,3 +10,5 @@ https://makssenchugov.github.io/BoWT_Senchugov_2023/passport_find_edit.html
 https://makssenchugov.github.io/BoWT_Senchugov_2023/passport.click.html
 
 https://makssenchugov.github.io/BoWT_Senchugov_2023/passport.table.html
+
+https://makssenchugov.github.io/BoWT_Senchugov_2023/complete_passport_with_table.html
