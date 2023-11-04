@@ -14,3 +14,5 @@ https://makssenchugov.github.io/BoWT_Senchugov_2023/passport.table.html
 https://makssenchugov.github.io/BoWT_Senchugov_2023/complete_passport_with_table.html
 
 https://makssenchugov.github.io/BoWT_Senchugov_2023/AlgoTask.html
+
+https://makssenchugov.github.io/BoWT_Senchugov_2023/доп баллы/table.html
