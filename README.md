@@ -18,3 +18,5 @@ https://makssenchugov.github.io/BoWT_Senchugov_2023/AlgoTask.html
 https://makssenchugov.github.io/BoWT_Senchugov_2023/доп_баллы/table.html
 
 https://makssenchugov.github.io/BoWT_Senchugov_2023/step_AlgoTask.html
+
+https://makssenchugov.github.io/BoWT_Senchugov_2023/form_AlgoTask.html
