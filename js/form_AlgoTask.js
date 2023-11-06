@@ -36,7 +36,9 @@ function verify() {
 
 
 function send(){
-if ((check1 | check2) && N > 0){
+let N = parseInt(SeatNumber.value);
+console.log(N)
+if ((check1||check2) && N>0) {
 let textCondition = document.getElementsByTagName('p')[0].innerText
 document.getElementsByName('formulation')[0].value = textCondition;
 document.getElementsByName('result1')[0].value = result1;
