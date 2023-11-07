@@ -1,5 +1,5 @@
 # BoWT_Senchugov_2023
-https://makssenchugov.github.io/BoWT_Senchugov_2023/2-3 стр паспорта.png
+https://makssenchugov.github.io/BoWT_Senchugov_2023
 
 https://makssenchugov.github.io/BoWT_Senchugov_2023/index.html
 
