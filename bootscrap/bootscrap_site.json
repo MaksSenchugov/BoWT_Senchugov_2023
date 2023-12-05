@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Форма 2005-2006гг",
+    "vendor code": "111",
+    "description": "Домашняя форма",
+    "price": "1000",
+    "img":"./images/Форма_2005-2006.png"
+  },
+  {
+    "id": "2",
+    "title": "Форма 1999-2000гг",
+    "vendor code": "222",
+    "description": "Домашняя форма",
+    "price": "2000",
+    "img":"./images/Форма_1999-2000.png"
+  },
+  {
+    "id": "3",
+    "title": "Форма 1998-1999гг",
+    "vendor code": "333",
+    "description": "Домашняя форма",
+    "price": "3000",
+    "img":"./images/Форма_1998-1999.png"
+  },
+  {
+    "id": "4",
+    "title": "Форма 1995-1996гг",
+    "vendor code": "444",
+    "description": "Домашняя форма",
+    "price": "4000",
+    "img":"./images/Форма_1995-1996.png"
+  },
+  {
+    "id": "5",
+    "title": "Форма 1994-1995гг",
+    "vendor code": "555",
+    "description": "Домашняя форма",
+    "price": "5000",
+    "img":"./images/Форма_1994-1995.png"
+  },
+  {
+    "id": "6",
+    "title": "Форма 1990-1991гг",
+    "vendor code": "666",
+    "description": "Домашняя форма",
+    "price": "10000",
+    "img":"./images/Форма_1990-1991.png"
+  },
+  {
+    "id": "7",
+    "title": "Форма 1985-1986гг",
+    "vendor code": "777",
+    "description": "Домашняя форма",
+    "price": "15000",
+    "img":"./images/Форма_1985-1986.png"
+  },
+  {
+    "id": "8",
+    "title": "Форма 1982-1983гг",
+    "vendor code": "888",
+    "description": "Домашняя форма",
+    "price": "20000",
+    "img":"./images/Форма_1982-1983.png"
+  },
+  {
+    "id": "9",
+    "title": "Форма 1977-1978гг",
+    "vendor code": "999",
+    "description": "Домашняя форма",
+    "price": "25000",
+    "img":"./images/Форма_1977-1978.png"
+  },
+  {
+    "id": "10",
+    "title": "Форма 1972-1973гг",
+    "vendor code": "101010",
+    "description": "Домашняя форма",
+    "price": "50000",
+    "img":"./images/Форма_1972-1973.png"
+  }
+]
