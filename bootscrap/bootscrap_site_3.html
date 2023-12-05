@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title> Оформить заказ формы </title>
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+          integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" rel="stylesheet">
+</head>
+
+<body style="background-color:blue">
+
+<div class="container p-0">
+
+    <header class="card"
+            style="height: 3.rem; background-image: url(https://www.pngmart.com/files/23/Chelsea-Logo-PNG-HD.png); background-repeat:no-repeat; background-size:340px; background-position-x:100%; background-color:green">
+        <div class="card-body bg-color">
+            <h5 style="color:white"> Футбольный Клуб Челси</h5> <br>
+            <h5 style="color:white; padding:3px"> Магазин ретро формы</h5> <br>
+            <br> <a href="https://www.google.com/maps/"> АДРЕСА МАГАЗИНОВ</a><br>
+            <a href="https://vk.com/" target="_blank"><img
+                    src="https://logos-marques.com/wp-content/uploads/2021/03/VK-Logo-2016.png"
+                    width="60px"></a>
+            <a href="https://tlgrm.ru/"><img
+                    src="https://www.freedownloadlogo.com/logos/t/telegram-2019-logo.svg"
+                    width="33px"></a>
+
+        </div>
+    </header>
+
+    <div class="card" style='background-color:#6fcd6f'>
+        <div class="card-body" >
+            <ul class="nav nav-pills card-header-pills">
+                <li class="nav-item"><a class="nav-link" href="bootstrap_site_1.html">Общая информация</a></li>
+                <li class="nav-item"><a class="nav-link" href="bootstrap_site_2.html">Ретро формы</a></li>
+                <li class="nav-item"><a class="nav-link active" href="bootstrap_site_3.html">Оформить заказ формы</a>
+                </li>
+            </ul>
+        </div>
+        <div class="card-body" style='background-color:#6fcd6f'>
+            <form action="https://www.bing.com/search?" id="UserEnter" name="UserEnter" target="_blank">
+                <p><input name="q" type='hidden' value="search"></p>
+                <fieldset class="personall">
+                    <div class="form-group">
+                        <h5 id="lichnie">Личные данные</h5><br>
+
+                        <label for="name">Имя:</label>
+                        <input name="name" id="name" type="text" class="form-control" placeholder="Введите имя:">
+                    </div>
+                    <div class="form-group">
+                        <label for="surname">Фамилию:</label>
+                        <input name="surname" id="surname" type="text" class="form-control"
+                               placeholder="Введите фамилию:">
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Телефон:</label>
+                        <input type="tel" id="phone" name="phone" pattern="[0-9]{1}-[0-9]{3}-[0-9]{3}-[0-9]{2}-[0-9]{2}"
+                               class="form-control" placeholder="Введите телефон:x-xxx-xxx-xx-xx">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input name="email" id="email" type="email" class="form-control" placeholder="Email@gmail.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Пароль:</label>
+                        <input name="hidden" id="password" type="password" class="form-control"
+                               placeholder="Введите пароль:">
+                    </div>
+
+                    <button type="submit" class="btn btn-success" name="submit" value="Отправить">Отправить</button>
+                </fieldset>
+            </form>
+
+            <form action="https://www.bing.com/search?" type='hidden' id="UserEnter" name="UserEnter" target="_blank">
+                <div class="form-group">
+                    <p>:<input name="q" type="hidden" value="search"></p>
+                </div>
+                <div class="form-group">
+                    <fieldset>
+                        <legend>Материал:</legend>
+                        <div class="form-check">
+                            <input type="radio" id="sintetic" name="form" value="matirial" class="form-check-input">
+                            <label for="kraken" class="form-check-label">Синтетика</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="radio" id="hlopok" name="matirial" value="hlopok"
+                                   class="form-check-input">
+                            <label for="sasquatch" class="form-check-label">Хлопок</label>
+                        </div>
+                    </fieldset>
+                </div>
+
+                <div class="form-group">
+                    <label for='calendar'>Введите когда сможете забрать форму:</label>
+                    <input type="date" name="calendar" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="textarea">Введите адрес самовывоза, который удобен:</label>
+                    <textarea name="textarea" id="textarea" class="form-control"
+                              placeholder="Введите адрес самовывоза: при недееспособности покупателя доставка до дома бесплано: город, улица, подъезд, этаж, *домофон для курьера"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <br>
+                    <p>Откуда Вы узнали о нашем магазине:</br></p>
+                    <input name="checkbox_man" id="checkbox_man" type="checkbox" placeholder="Man">
+                    <label for="checkbox"></label> Из социальных сетей
+
+                    <br><input name="checkbox_girl" id="checkbox_clothes" type="checkbox" placeholder="sport_clothes">
+                    <label for="checkbox"></label> От друзей
+
+                    <br><input name="checkbox_girl" id="checkbox_clothes" type="checkbox" placeholder="sport_clothes">
+                    <label for="checkbox"></label> От родителей</br>
+                </div>
+                <button type="submit" class="btn btn-success" name="submit" value="Отправить">Отправить</button>
+                </fieldset>
+                <!-- Остальной код формы здесь -->
+
+            </form>
+        </div>
+        <h5 align="right" style='background-color:#6fcd6f'><a href="#top"> <u> Перейти к началу страницы </u> </a></h5>
+    </div>
+    <div class="card" style="background-color:green">
+        <div class="card-footer">
+            При необходимости звоните 8 (495) 145-67-88
+        </div>
+    </div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.14.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
