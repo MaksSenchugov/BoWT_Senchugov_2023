@@ -5,7 +5,7 @@
     "vendor code": "111",
     "description": "Домашняя форма",
     "price": "1000",
-    "img":"./images/Форма_2005-2006.png"
+    "img":"../images/Форма_2005-2006.png"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "vendor code": "222",
     "description": "Домашняя форма",
     "price": "2000",
-    "img":"./images/Форма_1999-2000.png"
+    "img":"../images/Форма_1999-2000.png"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "vendor code": "333",
     "description": "Домашняя форма",
     "price": "3000",
-    "img":"./images/Форма_1998-1999.png"
+    "img":"../images/Форма_1998-1999.png"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "vendor code": "444",
     "description": "Домашняя форма",
     "price": "4000",
-    "img":"./images/Форма_1995-1996.png"
+    "img":"../images/Форма_1995-1996.png"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "vendor code": "555",
     "description": "Домашняя форма",
     "price": "5000",
-    "img":"./images/Форма_1994-1995.png"
+    "img":"../images/Форма_1994-1995.png"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "vendor code": "666",
     "description": "Домашняя форма",
     "price": "10000",
-    "img":"./images/Форма_1990-1991.png"
+    "img":"../images/Форма_1990-1991.png"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "vendor code": "777",
     "description": "Домашняя форма",
     "price": "15000",
-    "img":"./images/Форма_1985-1986.png"
+    "img":"../images/Форма_1985-1986.png"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "vendor code": "888",
     "description": "Домашняя форма",
     "price": "20000",
-    "img":"./images/Форма_1982-1983.png"
+    "img":"../images/Форма_1982-1983.png"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "vendor code": "999",
     "description": "Домашняя форма",
     "price": "25000",
-    "img":"./images/Форма_1977-1978.png"
+    "img":"../images/Форма_1977-1978.png"
   },
   {
     "id": "10",
@@ -77,6 +77,6 @@
     "vendor code": "101010",
     "description": "Домашняя форма",
     "price": "50000",
-    "img":"./images/Форма_1972-1973.png"
+    "img":"../images/Форма_1972-1973.png"
   }
 ]
