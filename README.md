@@ -25,4 +25,4 @@ https://makssenchugov.github.io/BoWT_Senchugov_2023/form_AlgoTask.html
 
 https://makssenchugov.github.io/BoWT_Senchugov_2023/my_site/p_0.html
 
-https://makssenchugov.github.io/BoWT_Senchugov_2023/bootscrap/bootscrap_site_1.html
+https://makssenchugov.github.io/BoWT_Senchugov_2023/bootstrap/bootstrap_site_1.html
