@@ -77,6 +77,6 @@
     "vendor code": "101010",
     "description": "Домашняя форма",
     "price": "50000",
-    "img":"./images/Форма_1972-1973.png"
+    "img":"../images/Форма_1972-1973.png"
   }
 ]
