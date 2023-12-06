@@ -1,0 +1,28 @@
+*{
+    padding: 3px;
+}
+.color_blue{
+    background-color:blue
+}
+
+.color_white{
+    color:white;
+    padding:3px
+}
+.color_lite_green{
+    background-color:#6fcd6f
+}
+
+.color_green{
+    background-color:green
+}
+
+.header{
+    height: 3.rem;
+    background-image: url(https://www.pngmart.com/files/23/Chelsea-Logo-PNG-HD.png);
+    background-repeat:no-repeat;
+    background-size:150px;
+    background-position-x:100%;
+    background-position-y:10%;
+    background-color:green
+}
