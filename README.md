@@ -29,9 +29,7 @@ https://makssenchugov.github.io/BoWT_Senchugov_2023/bootstrap/bootstrap_site_1.h
 
 https://makssenchugov.github.io/BoWT_Senchugov_2023/bootstrap_2v/bootstrap_site_1_v2.html
 
-https://makssenchugov.github.io/BoWT_Senchugov_2023/images/чайник1.png
-
 https://makssenchugov.github.io/BoWT_Senchugov_2023/images/фотка.png
 
-
+https://makssenchugov.github.io/BoWT_Senchugov_2023/images/чайник1.png
 
