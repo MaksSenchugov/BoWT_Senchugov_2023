@@ -35,7 +35,7 @@ https://makssenchugov.github.io/BoWT_Senchugov_2023/images/tea_1.png
 
 https://makssenchugov.github.io/BoWT_Senchugov_2023/images/tea_2.png
 
-https://makssenchugov.github.io/BoWT_Senchugov_2023/images/новыйгод.JPG
+https://makssenchugov.github.io/BoWT_Senchugov_2023/images/новыйгод.jpg
 
 
 
